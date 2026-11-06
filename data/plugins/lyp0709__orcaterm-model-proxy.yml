@@ -1,0 +1,6 @@
+url: https://github.com/lyp0709/orcaterm-model-proxy
+name: lyp0709/orcaterm-model-proxy
+category: model
+description:
+  en: 'Registers OrcaTerm web''s free models as a DeepSeek Harness provider. One-click login opens an isolated browser and reads the session cookie over CDP, then renews the 2-hour token automatically. Supports tool calling (DSH tools execute locally) and image input on models that accept it. Requires a Tencent Cloud account; not affiliated with Tencent or OrcaTerm.'
+  zh: '把 OrcaTerm 网页版的免费模型注册为 DeepSeek Harness 的 provider。一键登录会启动独立浏览器窗口并通过 CDP 读取会话 Cookie，之后自动续期 2 小时的 token。支持工具调用（DSH 工具在本机执行）和部分模型的图片输入。需要腾讯云账号；与腾讯及 OrcaTerm 官方无关。'
